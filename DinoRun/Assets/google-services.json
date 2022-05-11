@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893989919644",
+    "firebase_url": "https://dinorun-efd4d-default-rtdb.firebaseio.com",
+    "project_id": "dinorun-efd4d",
+    "storage_bucket": "dinorun-efd4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893989919644:android:c191e916a0c3183c678659",
+        "android_client_info": {
+          "package_name": "com.Dinorun.FireBase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893989919644-noictmhpk560jd4bipkfvp3ishvajoff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0R80_RYkm_HcdNm0HQzT8EqTwJo9MGS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893989919644-noictmhpk560jd4bipkfvp3ishvajoff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893989919644-d1rqv0q6bvrg6ld2e0cbsuh22t26j0sp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Dinorun.FireBase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

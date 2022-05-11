@@ -1,0 +1,3 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"inputSignatureChanged","annotation":"Il2Cpp D:/Unity Projects/DinoRunV2/DinoRun/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"changes":[{"key":"InputFileDigest","path":"D:\\Unity Projects\\DinoRunV2\\DinoRun\\Temp\\StagingArea\\Data\\Managed\\Assembly-CSharp.dll","dependency":"explicit"}]}
+{"msg":"noderesult","annotation":"Il2Cpp D:/Unity Projects/DinoRunV2/DinoRun/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"exitcode":0}
